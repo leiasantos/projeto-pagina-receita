@@ -31,3 +31,9 @@
         <p>O bolinho perfeito para acompanhar o café de todos os dias. É muito fácil e ainda por cima fica maravilhoso, com certeza vai impressionar. Faz e depois me conta o que achou!</p>
   </code>
 </pre>
+
+<h2>Sobre a aula📚</h2>
+<p>Aula ministrada por Mayk Brito</p>
+<a href="https://app.rocketseat.com.br/">Visit rocketseat 🚀</a>
+
+
